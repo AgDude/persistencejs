@@ -1,1 +1,3 @@
-test/titanium/build
+test/titanium/Resource
+.idea/
+.gitignore
